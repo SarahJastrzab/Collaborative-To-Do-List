@@ -1,0 +1,25 @@
+Project Justifcation
+  
+Delegation of project tasks is an essential part of any IT project. If team members are not explicitly given tasks, they do not 
+make progress on the project and their strengths are wasted. By building a web application that facilitates this process for IT teams,
+we will improve the productivity of the team. Task delegation will no longer be a confusing process. Users will be able to check an app
+and know what they have to work on just like how they check Facebook
+
+Project Scope
+
+This project will consist of creating a content management system from IT project tasks. The project
+will be completed by November 1, 2015. The application will include a way from authenticated users to add, update, delete, create ad filter tasks. 
+In addition, these users will be able to add other users and create groups that the tasks will fall under. Other added users can then be assigned a 
+group and then given tasks.
+
+Project Deliverables:
+
+Scope Statement
+Weekly Progress Reports from Each Developer
+Complete Software Package
+Test Results From a Sample User Group
+
+Project Success: 
+
+The Project will be successful if the application is used by Upper-Level College Students to plan group IT projects.
+
